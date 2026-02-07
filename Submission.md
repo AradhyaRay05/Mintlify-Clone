@@ -33,7 +33,7 @@ Recreate a desktop-first documentation-style website inspired by the Mintlify we
 - Images and icons were sourced from the provided brand assets or recreated to match the original design.
 
 ### Hosting
-The project is hosted publicly for evaluation. You can view the live site [https://mintlify-clone-ten.vercel.app/](#https://mintlify-clone-ten.vercel.app/).
+The project is hosted publicly for evaluation. You can view the live site [https://mintlify-clone-ten.vercel.app/](https://mintlify-clone-ten.vercel.app/).
 
 ### Evaluation Parameters
 - **Structural Accuracy**: Matches the original Mintlify site.
